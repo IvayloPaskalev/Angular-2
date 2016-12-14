@@ -1,0 +1,11 @@
+{
+    "compileOnSave": true,
+    "compilerOptions": {
+        "module": "commonjs",
+        "watch": true,
+        "target": "ES5",
+        "outFile": "app.js",
+        "noImplicitAny": false,
+        "inlineSourceMap": true
+    }
+}
